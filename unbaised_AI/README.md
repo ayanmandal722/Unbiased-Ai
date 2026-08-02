@@ -122,7 +122,7 @@ Each domain auto-injects its own **system prompt**, **sensitive attribute list**
 
 ### 2. Clone the repo
 ```bash
-git clone https://github.com/SayanSantra-t/unbaised_AI.git
+git clone https://github.com/ayanmandal722/Unbiased-Ai.git
 cd unbaised_AI
 ```
 
